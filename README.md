@@ -30,6 +30,7 @@ Reward optimization adjustments
 Performance tracking and evaluation
 
 I configured hyperparameters, adjusted learning rates, and refined reward mechanisms to ensure the agent learned efficiently and converged toward optimal behavior.
+
 What Do Computer Scientists Do and Why Does It Matter?
 
 Computer scientists design algorithms, build intelligent systems, and solve complex problems using computational methods. In this project, I applied algorithmic thinking, mathematical modeling, and machine learning techniques to create an autonomous decision-making agent.
